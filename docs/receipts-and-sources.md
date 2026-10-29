@@ -1,7 +1,7 @@
 # Receipts and sources (fetched abstracts)
 
 **Consciousness in the universe: a review of the 'Orch OR' theory.** Hameroff S, Penrose R.
-*Physics of Life Reviews* 2014;11(1):39-78. PMID 24070914.
+*Physics of Life Reviews* 2014;11(1):39-78. PMID [24070914](https://pubmed.ncbi.nlm.nih.gov/24070914/).
 > "The nature of consciousness, the mechanism by which it occurs in the brain, and its
 > ultimate place in the universe are unknown. We proposed in the mid 1990's that
 > consciousness depends on biologically 'orchestrated' coherent quantum processes in
